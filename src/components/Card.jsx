@@ -1,5 +1,5 @@
-import Button from "./button";
-import MyToggle from "./myToggle";
+import Button from "./Button.jsx";
+import MyToggle from "./myToggle.jsx";
 import { useState } from "react";
 
 function Card({
